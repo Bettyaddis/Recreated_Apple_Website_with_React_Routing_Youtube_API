@@ -17,13 +17,5 @@ React.js, Bootstrap
 ## Install dependencies ##
 npm install
 
-## Author ##
-
-Edom Meshesha
-    GitHub: @eskista
-
-## Acknowledgments ##
-
-Many thanks to EvangadiTech and Adugna Bekele.
 
 
